@@ -13,7 +13,7 @@ A simple music player app built with Flutter that allows users to play, pause, a
 ## Installation
 
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/VenukaR/SimpleMusicApp.git
 Navigate to the project directory:
 
 
