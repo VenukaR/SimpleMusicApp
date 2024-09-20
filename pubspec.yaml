@@ -1,0 +1,29 @@
+name: simple_music_player
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audio_service: ^0.18.11
+  just_audio: ^0.9.34
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+    - assets/audio/
+
+
