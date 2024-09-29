@@ -39,14 +39,3 @@ class _SplashViewState extends State<SplashView> {
     );
   }
 }
-
-
-/*
-add music
-
-Center(
-            child: Image.asset(
-              "assets/img/calmwave_light.png",
-              width: media.width * 0.30,
-            ),
-*/ 
