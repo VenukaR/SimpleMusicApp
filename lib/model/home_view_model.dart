@@ -10,19 +10,19 @@ class HomeViewModel extends GetxController {
       "name": "Music 01",
       "artists": "Artist Name",
       "audioUrl": "assets/audio/song.mp3",
-      "image": "assets/img/alb1.png" // Example path to asset audio
+      "image": "assets/img/alb1.png" 
     },
     {
       "name": "Track 2",
       "artists": "new track 2",
       "audioUrl": "assets/audio/songnew.mp3",
-      "image": "assets/img/alb1.png"  // Example path to asset audio
+      "image": "assets/img/alb1.png"  
     },
      {
       "name": "Track 2",
       "artists": "new track 2",
       "audioUrl": "assets/audio/songnew.mp3",
-      "image": "assets/img/alb1.png"  // Example path to asset audio
+      "image": "assets/img/alb1.png"  
     },
    
     //add as many you want
